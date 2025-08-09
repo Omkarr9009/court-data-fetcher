@@ -1,6 +1,9 @@
 \# Court Data Fetcher \& Mini Dashboard
-
-
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+[![Flask](https://img.shields.io/badge/Flask-Web_Framework-lightgrey.svg)](https://flask.palletsprojects.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Made with Selenium](https://img.shields.io/badge/Made%20with-Selenium-brightgreen.svg)](https://www.selenium.dev/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange.svg)](https://pandas.pydata.org/)
 
 This project allows users to fetch court case data from Indian court websites such as the \[Delhi High Court eCourts portal](https://delhihighcourt.nic.in).  
 
